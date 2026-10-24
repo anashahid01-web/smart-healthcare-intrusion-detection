@@ -21,7 +21,7 @@ The dataset is not included in this repository.
 8. Evaluation and comparison with benchmark models (SVM, LR, DNN, RNN)
 
 ## Proposed Model
-![Proposed model architecture](images/architecture.png)
+![Proposed model architecture](architecture.png)
 
 ## Results
 | Metric | Training | Testing |
@@ -33,15 +33,14 @@ The dataset is not included in this repository.
 
 **Confusion matrix (test set)**
 
-![Confusion matrix](images/confusion_matrix.png)
-
+![Confusion matrix](confusion_matrix.png)
 **Training and validation loss**
 
-![Training loss](images/training_loss.png)
+![Training loss]![Training loss](training_loss.png)
 
 **Top 10 important features**
 
-![Feature importance](images/feature_importance.png)
+![Feature importance](feature_importance.png)
 
 ## Tech Stack
 Python, TensorFlow / Keras, scikit-learn, pandas, NumPy
