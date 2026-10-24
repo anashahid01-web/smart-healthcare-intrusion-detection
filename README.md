@@ -50,5 +50,4 @@ Research paper in preparation. Source code and detailed methodology will be rele
 
 ## Author
 **Ana Shahid**
-MS Computer Science, NUML Islamabad
-[LinkedIn](https://www.linkedin.com/in/your-profile) | ana.shahid@numl.edu.pk
+MS Computer Science, NUML Islamabad| ana.shahid@numl.edu.pk
