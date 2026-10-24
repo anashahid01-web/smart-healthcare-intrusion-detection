@@ -45,6 +45,11 @@ The dataset is not included in this repository.
 ## Tech Stack
 Python, TensorFlow / Keras, scikit-learn, pandas, NumPy
 
+## Recognition
+Selected among the **Top 10 Finalists** in the Three Minute Thesis (3MT) competition at SZABIST, Year 2022.
+
+![3MT presentation slide](3mt_slide.jpg)
+
 ## Status
 Research paper in preparation. Source code and detailed methodology will be released after publication.
 
