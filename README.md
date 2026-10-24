@@ -1,6 +1,6 @@
 
 # Intrusion Detection using Deep Learning in IoT-based Smart Healthcare
-MS Computer Science thesis project, National University of Modern Languages (NUML), Islamabad, 2023
+MS Computer Science thesis project, National University of Modern Languages (NUML), Islamabad
 Supervisor: Dr. Sajjad Haider
 
 ## Overview
